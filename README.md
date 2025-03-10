@@ -20,7 +20,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing Shopware and Wordpress plugins and themes. And some Angular applications**
-- 🌱 I'm currently learning: **📚 Vue and some other things like Shopware frontends, Angular Signals**
+- 🌱 I'm currently learning: **📚 React, Vue and some other things like Shopware frontends, Angular Signals, LLM RAG, and so on**
 - 💬 Ask me about: **💡 JavaScript - Angular, Php - Symfony**
 
  **<h3 align="left">Skills</h3>**
